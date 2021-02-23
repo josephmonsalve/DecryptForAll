@@ -1,5 +1,5 @@
 # DecryptWithPython
-This proyect was created with the purpose of solving encrypts of type md5, sha1, sha224, sha256, sha384, sha512, with Python.
+This project was created with the purpose of solving encrypts of type md5, sha1, sha224, sha256, sha384, sha512, with Python.
 ### Prerequisites
 Python 3.x.x
 ### Installing
